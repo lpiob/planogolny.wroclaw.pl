@@ -1,0 +1,59 @@
+.strefy-grid {
+  display: grid !important;
+  grid-template-columns: repeat(auto-fill, minmax(30%, 1fr));
+  gap: 0.2rem;
+  list-style: none;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.strefy-grid > li {
+  background: var(--md-default-bg-color);
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 4px;
+  padding: 1rem 0.5rem;
+  
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  
+  box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+  transition: transform 0.2s;
+}
+
+.strefy-grid > li:hover {
+  transform: translateY(-3px);
+  border-color: var(--md-primary-fg-color);
+}
+
+.strefy-grid > li.SW { background-color: #BEAB9C; }
+.strefy-grid > li.SJ { background-color: #E7CFA5; }
+.strefy-grid > li.SZ { background-color: #FFEFC9; }
+.strefy-grid > li.SU { background-color: #FFA19F; }
+.strefy-grid > li.SH { background-color: #FFB1D1; }
+.strefy-grid > li.SP { background-color: #CCB3EA; } 
+.strefy-grid > li.SR { background-color: #C3E6C3; } /* brak */
+.strefy-grid > li.SI { background-color: #DEDEDE; }
+.strefy-grid > li.SN { background-color: #D4F9B5; }
+.strefy-grid > li.SC { background-color: #BAE4D9; }
+.strefy-grid > li.SG { background-color: #E3D4A4; } /* brak */
+.strefy-grid > li.SO { background-color: #EDFFDB; }
+.strefy-grid > li.SK { background-color: #F7F7F7; }
+
+/* symbol */
+.strefy-grid > li > strong {
+  font-size: 2.2rem;
+  color: var(--md-primary-fg-color);
+  line-height: 1;
+  margin-bottom: 0.5rem;
+  font-weight: 800;
+}
+/* opis */
+.strefy-grid > li > span {
+  font-size: 0.85rem;
+  line-height: 1.2;
+  color: var(--md-default-fg-color--light
+}
+

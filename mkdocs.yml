@@ -1,0 +1,60 @@
+site_name: Plan Ogólny Wrocławia
+site_url: https://planogolny.wroclaw.pl/
+#repo_url: https://github.com/lpiob/planogolny.wroclaw.pl
+
+theme:
+  name: material
+  logo: assets/logo.png
+  favicon: assets/logo.png
+  language: pl
+  features:
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
+    - navigation.tracking # URL zmienia się podczas przewijania
+    - navigation.sections # Sekcje w menu
+    - navigation.expand   # Domyślnie rozwinięte menu
+    - toc.follow          # Spis treści podąża za scrollem
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Przełącz na tryb ciemny
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Przełącz na tryb jasny
+
+extra_css:
+  - stylesheets/extra.css
+  - stylesheets/strefy.css
+
+plugins:
+  - search
+  - section-index
+  - macros
+  - privacy:
+      enabled: true
+      assets: true
+      assets_fetch_retries: 3  
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences 
+  - pymdownx.tabbed:
+      alternate_style: true
+  - attr_list
+  - md_in_html
+  - attr_list
+
+extra:
+  social:
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/inicjatywa.raclawicka
+    - icon: fontawesome/brands/github
+      link: https://github.com/lpiob/planogolny.wroclaw.pl
