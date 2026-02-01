@@ -1,5 +1,5 @@
 ---
-description: >
+description: >-
   Informator o Planie Ogólnym Wrocławia. Sprawdź, jak nowe przepisy wpłyną na przeznaczenie terenu w Twojej okolicy i jak mieć na to wpływ.
 ---
 # Czym jest Plan Ogólny?

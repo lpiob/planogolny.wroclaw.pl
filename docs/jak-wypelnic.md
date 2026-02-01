@@ -1,3 +1,8 @@
+---
+description: >-
+  Instrukcja krok po kroku: jak poprawnie wypełnić i złożyć wniosek do Planu Ogólnego Wrocławia. 
+  Pobierz wzory formularzy i skorzystaj z generatora wniosków.
+---
 # Jak wypełnić wniosek do Planu Ogólnego?
 
 ## Krok 1: Pobierz lub uzyskaj formularz wniosku
@@ -7,8 +12,8 @@ Dokument który należy wypełnić to *pismo dotyczące aktu planowania ogólneg
 Dokument możesz pobrać w wersji elektronicznej:
 
 - Z naszej strony:
-    -  w [edytowalnym formacie PDF](/assets/wzory/wpl_edytowalny_formularz_wniosku_do_aktu_plan_przestrzennego_07_2025.pdf){: target="_blank" }
-    -  w [formacie DOCX](/assets/wzory/wpl_pismo_dot_aktu_planowania_przestrzennego_07_2025.doc){: download }
+    -  w [edytowalnym formacie PDF](assets/wzory/wpl_edytowalny_formularz_wniosku_do_aktu_plan_przestrzennego_07_2025.pdf){: target="_blank" }
+    -  w [formacie DOCX](assets/wzory/wpl_pismo_dot_aktu_planowania_przestrzennego_07_2025.doc){: download }
 - Z [Systemu Informacji Przestrzennej Wrocławia](https://geoportal.wroclaw.pl/planowanie_przestrzenne/dokumenty):
 
 !!! info "Wnioski papierowe"

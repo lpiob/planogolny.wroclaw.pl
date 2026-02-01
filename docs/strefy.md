@@ -1,3 +1,7 @@
+---
+description: >-
+  Poznaj 13 stref planistycznych we Wrocławiu. Dowiedz się, co oznaczają symbole SW, SJ czy SN i jakie są standardy dostępności do szkół i zieleni.
+---
 # Strefy planistyczne
 
 Obszar objęty planem dzieli się na strefy planistyczne. 
@@ -41,3 +45,15 @@ Strefy umożliwiające budowę mieszkań (SW, SJ, SZ) mogą być wyznaczane **wy
     - Obszary o pow. min. 3,0 ha: nie dalej niż **1500 m** od granicy działki.
     - Obszary o pow. min. 20 ha: nie dalej niż **3000 m** od granicy działki.
 
+## Pytania i odpowiedzi
+
+!!! question "W jaki strefach mogą znaleźć się ogródki działkowe?"
+    Ogródki działkowe mogą być zlokalizowane w strefach: SW i SJ (strefy wielofunkcyjne z zabudową mieszkaniową) oraz w strefie SN (zieleń i rekreacja).
+
+!!! question "Dlaczego w Planie Ogólnym w znajdują się 'białe plamy' bez przypisanej strefy?"
+    Zazwyczaj są to tereny wojskowe, nie podlegające planowaniu przestrzennemu.
+    Ciekawym przykładem jest luka na wrocławskim rynku.
+
+    ![Przykład białej plamy na wrocławskim rynku](assets/kosciol-garnizonowy.png)
+
+    Jest to kościół garnizonowy, teren wojskowy, ale dostępny publicznie. Nie podlega pod akt planowania.

@@ -29,6 +29,9 @@ theme:
         icon: material/brightness-4
         name: Przełącz na tryb jasny
 
+hooks:
+  - hooks.py
+
 extra_css:
   - stylesheets/extra.css
   - stylesheets/strefy.css
@@ -40,7 +43,6 @@ plugins:
   - privacy:
       enabled: true
       assets: true
-      assets_fetch_retries: 3  
 
 markdown_extensions:
   - admonition
@@ -54,7 +56,7 @@ markdown_extensions:
 
 extra:
   social:
-    - icon: fontawesome/brands/facebook
-      link: https://www.facebook.com/inicjatywa.raclawicka
+    #- icon: fontawesome/brands/facebook
+    #  link: https://www.facebook.com/inicjatywa.raclawicka
     - icon: fontawesome/brands/github
       link: https://github.com/lpiob/planogolny.wroclaw.pl

@@ -1,4 +1,14 @@
+---
+description: >-
+  Sprawdź aktualny etap i kluczowe daty wdrażania Planu Ogólnego Wrocławia. 
+  Dowiedz się, kiedy odbędą się konsultacje społeczne i kiedy złożyć wnioski.
+---
 # Harmonogram
+
+!!! info "Aktualny etap"
+    Obecnie trwa **sporządzanie projektu planu ogólnego oraz konsultacje z organami**.
+
+    Następny etap to **konsultacje społeczne**.
 
 Oto ustawowe etapy w kolejności chronologicznej:
 

@@ -1,3 +1,7 @@
+---
+description: >-
+  Baza wiedzy o Planie Ogólnym Wrocławia: linki do Geoportalu, BIP, tekstów ustaw oraz lokalnych standardów urbanistycznych (Lex Developer).
+---
 # Zasoby zewnętrzne
 
 ## Zasoby miejskie
