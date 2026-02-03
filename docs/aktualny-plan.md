@@ -1,9 +1,26 @@
+---
+description: >-
+  Założenia Planu Ogólnego Wrocławia - stan na luty 2026: odległości do szkół i zieleni, wskaźniki powierzchni biologicznie czynnej oraz wizualizacje wysokości zabudowy dla Twojego osiedla
+---
+
 # Aktualny Plan
 
 !!! notice "Aktualność danych"
     Dane przedstawione na tej stronie pochodzą z oficjalnych źródeł miejskich na dzień **30 stycznia 2026 roku**.
 
     Plan jest jeszcze w trakcie opracowywania i może ulec zmianom.
+
+## Profil wysokościowy
+
+Plan Ogólny - tak jak wcześniej Miejscowy Plan Zagospodarowania Przestrzennego - określa maksymalną wysokość zabudowy dla poszczególnych obszarów miasta.
+
+![Rzut 3D obrazujący maksymalną wysokość zabudowy według Planu Ogólnego](assets/plan-ogolny-wroclaw-dopuszczalna-wysokosc.jpg)
+
+Jeśli plan się utrzyma, a ograniczenia zostaną wykorzystane w pełni, to panorama Wrocławia może wyglądać tak:
+
+![Wizualizacja panoramy Wrocławia przy maksymalnym wykorzystaniu wysokości zabudowy według Planu Ogólnego](assets/plan-ogolny-panorama.jpg)
+
+
 
 ## Odległość do zielenii
 
@@ -124,57 +141,65 @@ Poniższa tabela przedstawia procentowy udział powierzchni osiedla pokrytej pos
 
 Opisy poszczególnych strefy znajdziesz na podstronie [Strefy Planu ogólnego](strefy.md).
 
-| Nazwa osiedla                                  | SC   | SH   | SI    | SJ    | SK    | SN    | SO    | SP    | SU    | SW    | SZ   |
-|:-----------------------------------------------|:-----|:-----|:------|:------|:------|:------|:------|:------|:------|:------|:-----|
-| Bieńkowice                                     | 0,3% |      | 1,8%  | 12,0% | 41,8% | 33,4% |       | 8,6%  | 0,7%  | 1,5%  |      |
-| Biskupin - Sępolno - Dąbie - Bartoszowice      | 1,3% |      | 0,3%  | 14,8% | 5,4%  | 43,2% |       |       | 8,7%  | 26,4% |      |
-| Borek                                          |      |      | 2,6%  | 17,6% | 10,2% | 17,5% |       |       | 6,5%  | 35,6% |      |
-| Brochów                                        |      |      | 0,8%  | 16,7% | 21,8% | 36,4% |       |       | 5,3%  | 18,9% |      |
-| Gaj                                            | 1,5% |      | 2,2%  | 8,9%  | 8,2%  | 27,4% |       |       | 15,2% | 36,7% |      |
-| Gajowice                                       |      |      | 1,5%  |       | 9,5%  | 14,6% |       |       | 6,2%  | 68,2% |      |
-| Grabiszyn - Grabiszynek                        | 7,4% |      | 0,4%  | 14,5% | 9,2%  | 33,8% | 0,7%  | 11,9% | 6,2%  | 15,9% |      |
-| Gądów - Popowice Płd.                          |      | 6,3% | 4,1%  | 3,2%  | 15,3% | 15,0% |       | 1,8%  | 14,7% | 39,5% |      |
-| Huby                                           |      | 2,3% | 2,9%  |       | 17,7% | 18,7% |       |       | 17,8% | 40,6% |      |
-| Jagodno                                        |      |      | 0,6%  | 49,5% | 7,6%  | 13,0% |       | 2,0%  | 7,2%  | 20,2% |      |
-| Jerzmanowo - Jarnołtów - Strachowice - Osiniec | 0,2% |      | 13,6% | 11,4% | 3,8%  | 9,0%  | 14,8% | 15,9% | 0,0%  | 0,0%  | 0,2% |
-| Karłowice - Różanka                            | 5,2% |      | 1,3%  | 7,6%  | 7,6%  | 22,6% | 0,1%  | 7,2%  | 9,5%  | 20,2% |      |
-| Klecina                                        | 2,5% | 3,5% | 3,0%  | 13,7% | 8,1%  | 22,6% |       | 32,0% | 0,6%  | 14,0% |      |
-| Kleczków                                       |      |      | 17,0% |       | 7,8%  | 32,7% |       |       | 5,0%  | 37,5% |      |
-| Kowale                                         |      | 2,1% | 3,3%  | 14,7% | 7,3%  | 20,7% | 14,2% | 26,0% | 6,7%  | 4,8%  |      |
-| Krzyki - Partynice                             | 1,0% |      | 1,3%  | 20,8% | 8,3%  | 30,2% |       |       | 9,8%  | 28,7% |      |
-| Księże                                         | 0,4% |      | 0,6%  | 6,6%  | 3,4%  | 19,2% | 55,8% | 7,6%  | 0,9%  | 5,5%  |      |
-| Kuźniki                                        |      |      | 1,7%  | 34,7% | 10,8% | 19,0% | 10,5% |       | 2,9%  | 20,3% |      |
-| Leśnica                                        | 0,1% |      | 3,4%  | 23,0% | 3,3%  | 13,2% | 41,3% | 2,7%  | 3,7%  | 8,2%  |      |
-| Lipa Piotrowska                                | 0,2% |      | 0,1%  | 29,4% | 6,4%  | 5,2%  | 6,7%  | 26,1% | 5,2%  | 20,8% |      |
-| Maślice                                        | 0,4% |      | 1,4%  | 17,8% | 5,5%  | 28,7% | 19,0% | 7,6%  | 4,5%  | 15,1% |      |
-| Muchobór Mały                                  |      |      | 1,2%  | 9,6%  | 14,4% | 35,0% | 0,7%  | 29,1% | 5,8%  | 4,2%  |      |
-| Muchobór Wielki                                | 0,1% | 1,8% | 0,7%  | 7,8%  | 12,1% | 19,9% | 7,4%  | 32,1% | 0,7%  | 17,0% |      |
-| Nadodrze                                       |      |      | 13,9% |       | 10,7% | 21,7% |       |       | 2,8%  | 50,8% |      |
-| Nowy Dwór                                      |      |      | 4,3%  | 0,2%  | 9,1%  | 35,1% |       |       | 11,1% | 40,3% |      |
-| Oporów                                         | 5,7% |      | 0,2%  | 20,4% | 5,3%  | 19,2% | 0,9%  | 38,9% | 2,4%  | 7,1%  |      |
-| Osobowice - Rędzin                             | 0,0% |      | 1,2%  | 3,0%  | 3,7%  | 17,9% | 66,4% | 5,1%  | 0,4%  | 1,8%  |      |
-| Ołbin                                          | 2,2% |      |       |       | 7,3%  | 34,8% |       |       | 4,3%  | 51,4% |      |
-| Ołtaszyn                                       | 0,3% |      | 0,6%  | 59,2% | 4,3%  | 23,1% | 0,8%  |       | 0,6%  | 11,1% |      |
-| Pawłowice                                      | 0,5% |      |       | 27,2% | 3,2%  | 6,1%  | 49,0% | 12,7% | 1,0%  | 0,3%  |      |
-| Pilczyce - Kozanów - Popowice Płn.             | 1,1% |      | 2,5%  | 2,9%  | 7,9%  | 37,4% | 18,3% |       | 9,1%  | 20,8% |      |
-| Plac Grunwaldzki                               |      |      | 1,1%  | 0,2%  | 11,4% | 14,7% |       |       | 30,7% | 41,9% |      |
-| Polanowice - Poświętne - Ligota                | 0,1% | 3,0% | 1,5%  | 20,1% | 6,5%  | 10,3% | 21,7% | 11,7% | 5,4%  | 7,5%  |      |
-| Powstańców Śląskich                            | 1,8% |      | 0,5%  |       | 12,5% | 6,8%  |       |       | 10,9% | 66,1% |      |
-| Pracze Odrzańskie                              | 0,1% |      | 11,3% | 13,9% | 2,0%  | 8,0%  | 54,6% | 1,1%  | 4,0%  | 4,9%  | 0,1% |
-| Przedmieście Oławskie                          |      | 1,5% | 5,4%  | 2,7%  | 12,1% | 41,1% | 7,2%  | 0,0%  | 7,0%  | 22,9% |      |
-| Przedmieście Świdnickie                        |      |      | 0,7%  |       | 21,5% | 7,5%  |       |       | 7,7%  | 62,1% |      |
-| Psie Pole - Zawidawie                          | 3,2% |      | 1,8%  | 15,5% | 4,9%  | 8,3%  | 36,3% | 12,9% | 4,0%  | 13,1% | 0,1% |
-| Sołtysowice                                    |      |      | 3,3%  | 11,9% | 1,2%  | 21,0% | 31,9% |       | 3,1%  | 14,1% |      |
-| Stare Miasto                                   |      |      | 4,2%  |       | 8,0%  | 29,5% |       |       | 18,1% | 39,9% |      |
-| Strachocin - Swojczyce - Wojnów                | 0,2% |      | 2,5%  | 16,4% | 3,2%  | 22,5% | 46,0% | 2,6%  | 1,7%  | 5,0%  |      |
-| Szczepin                                       |      |      | 4,1%  |       | 17,5% | 18,9% |       | 6,8%  | 15,1% | 37,5% |      |
-| Tarnogaj                                       | 2,5% |      | 1,1%  | 2,6%  | 20,5% | 27,8% |       | 6,1%  | 10,8% | 28,7% |      |
-| Widawa                                         | 0,1% |      |       | 38,1% | 16,3% | 4,2%  | 24,7% | 8,2%  | 7,8%  | 0,7%  |      |
-| Wojszyce                                       |      |      | 1,3%  | 43,9% | 4,4%  | 33,9% |       |       | 2,5%  | 14,0% |      |
-| Zacisze - Zalesie - Szczytniki                 |      |      | 0,3%  | 19,2% | 4,4%  | 63,4% |       |       | 5,1%  | 7,6%  |      |
-| Świniary                                       | 0,1% |      |       | 9,0%  | 3,7%  | 1,7%  | 85,3% |       | 0,0%  | 0,2%  |      |
-| Żerniki                                        | 0,2% |      | 20,5% | 14,5% | 9,4%  | 12,3% | 16,6% | 8,7%  | 1,5%  | 16,3% |      |
+| Nazwa osiedla                                  | Zabudowa mieszkaniowa   | Handel, usługi   | Strefa gospodarcza i rolna   | Strefa otwarta, zieleń i rekreacja   | Infrastruktura i komunikacja   | Cmentarze   |
+|:----------------------------------------------:|:-----------------------:|:-----------------:|:----------------------------:|:------------------------------------:|:------------------------------:|:-----------:|
+| Bieńkowice                                     | 13,4%                   | 0,7%              | 8,6%                         | 33,4%                                | 43,5%                          | 0,3%        |
+| Biskupin - Sępolno - Dąbie - Bartoszowice      | 41,1%                   | 8,7%              |                              | 43,2%                                | 5,7%                           | 1,3%        |
+| Borek                                          | 53,3%                   | 6,5%              |                              | 17,5%                                | 12,8%                          |             |
+| Brochów                                        | 35,6%                   | 5,3%              |                              | 36,4%                                | 22,7%                          |             |
+| Gaj                                            | 45,6%                   | 15,2%             |                              | 27,4%                                | 10,4%                          | 1,5%        |
+| Gajowice                                       | 68,2%                   | 6,2%              |                              | 14,6%                                | 11,0%                          |             |
+| Grabiszyn - Grabiszynek                        | 30,4%                   | 6,2%              | 11,9%                        | 34,4%                                | 9,6%                           | 7,4%        |
+| Gądów - Popowice Płd.                          | 42,8%                   | 21,1%             | 1,8%                         | 15,0%                                | 19,4%                          |             |
+| Huby                                           | 40,6%                   | 20,1%             |                              | 18,7%                                | 20,6%                          |             |
+| Jagodno                                        | 69,6%                   | 7,2%              | 2,0%                         | 13,0%                                | 8,2%                           |             |
+| Jerzmanowo - Jarnołtów - Strachowice - Osiniec | 11,5%                   |                   | 16,1%                        | 23,8%                                | 17,5%                          | 0,2%        |
+| Karłowice - Różanka                            | 27,8%                   | 9,5%              | 7,2%                         | 22,7%                                | 8,9%                           | 5,2%        |
+| Klecina                                        | 27,7%                   | 4,1%              | 32,0%                        | 22,6%                                | 11,1%                          | 2,5%        |
+| Kleczków                                       | 37,5%                   | 5,0%              |                              | 32,7%                                | 24,8%                          |             |
+| Kowale                                         | 19,6%                   | 8,8%              | 26,0%                        | 34,9%                                | 10,6%                          |             |
+| Krzyki - Partynice                             | 49,5%                   | 9,8%              |                              | 30,2%                                | 9,6%                           | 1,0%        |
+| Księże                                         | 12,1%                   | 0,9%              | 7,6%                         | 75,0%                                | 4,0%                           | 0,4%        |
+| Kuźniki                                        | 55,0%                   | 2,9%              |                              | 29,5%                                | 12,5%                          |             |
+| Leśnica                                        | 31,2%                   | 3,7%              | 2,7%                         | 54,5%                                | 6,7%                           | 0,1%        |
+| Lipa Piotrowska                                | 50,2%                   | 5,2%              | 26,1%                        | 11,8%                                | 6,5%                           | 0,2%        |
+| Maślice                                        | 32,9%                   | 4,5%              | 7,6%                         | 47,8%                                | 6,8%                           | 0,4%        |
+| Muchobór Mały                                  | 13,8%                   | 5,8%              | 29,1%                        | 35,7%                                | 15,6%                          |             |
+| Muchobór Wielki                                | 24,8%                   | 2,5%              | 32,1%                        | 27,4%                                | 12,8%                          | 0,1%        |
+| Nadodrze                                       | 50,8%                   | 2,8%              |                              | 21,7%                                | 24,6%                          |             |
+| Nowy Dwór                                      | 40,5%                   | 11,1%             |                              | 35,1%                                | 13,3%                          |             |
+| Oporów                                         | 27,5%                   | 2,4%              | 38,9%                        | 20,1%                                | 5,5%                           | 5,7%        |
+| Osobowice - Rędzin                             | 4,7%                    | 0,4%              | 5,1%                         | 84,2%                                | 5,0%                           |             |
+| Ołbin                                          | 51,4%                   | 4,3%              |                              | 34,8%                                | 7,3%                           | 2,2%        |
+| Ołtaszyn                                       | 70,3%                   | 0,6%              |                              | 23,9%                                | 4,9%                           | 0,3%        |
+| Pawłowice                                      | 27,5%                   | 1,0%              | 12,7%                        | 55,1%                                | 3,2%                           | 0,5%        |
+| Pilczyce - Kozanów - Popowice Płn.             | 23,7%                   | 9,1%              |                              | 55,7%                                | 10,4%                          | 1,1%        |
+| Plac Grunwaldzki                               | 42,1%                   | 30,7%             |                              | 14,7%                                | 12,5%                          |             |
+| Polanowice - Poświętne - Ligota                | 27,6%                   | 8,4%              | 11,7%                        | 32,0%                                | 8,0%                           |             |
+| Powstańców Śląskich                            | 66,1%                   | 10,9%             |                              | 6,8%                                 | 13,1%                          | 1,8%        |
+| Pracze Odrzańskie                              | 18,9%                   | 4,0%              | 1,3%                         | 62,5%                                | 13,2%                          | 0,1%        |
+| Przedmieście Oławskie                          | 25,6%                   | 8,5%              |                              | 48,4%                                | 17,5%                          |             |
+| Przedmieście Świdnickie                        | 62,1%                   | 7,7%              |                              | 7,5%                                 | 22,2%                          |             |
+| Psie Pole - Zawidawie                          | 28,5%                   | 4,0%              | 13,0%                        | 44,6%                                | 6,7%                           | 3,2%        |
+| Sołtysowice                                    | 26,1%                   | 3,1%              |                              | 52,9%                                | 4,5%                           |             |
+| Stare Miasto                                   | 39,9%                   | 18,1%             |                              | 29,5%                                | 12,3%                          |             |
+| Strachocin - Swojczyce - Wojnów                | 21,4%                   | 1,7%              | 2,6%                         | 68,5%                                | 5,6%                           | 0,2%        |
+| Szczepin                                       | 37,5%                   | 15,1%             | 6,8%                         | 18,9%                                | 21,6%                          |             |
+| Tarnogaj                                       | 31,3%                   | 10,8%             | 6,1%                         | 27,8%                                | 21,5%                          | 2,5%        |
+| Widawa                                         | 38,8%                   | 7,8%              | 8,2%                         | 28,9%                                | 16,3%                          |             |
+| Wojszyce                                       | 57,8%                   | 2,5%              |                              | 33,9%                                | 5,7%                           |             |
+| Zacisze - Zalesie - Szczytniki                 | 26,8%                   | 5,1%              |                              | 63,4%                                | 4,7%                           |             |
+| Świniary                                       | 9,2%                    |                   |                              | 87,0%                                | 3,7%                           | 0,1%        |
+| Żerniki                                        | 30,8%                   | 1,5%              | 8,7%                         | 28,9%                                | 29,9%                          | 0,2%        |
 
+
+Obserwacje:
+
+- Największy obszar stref związanych z handlem i usługami został wyznaczony na osiedlach: Plac Grunwaldzki (30.7%), Gądów-Popowice Płd. (21.1%) oraz Gądów-Popowice Płd. (21.1%)., Huby (20.1%)., Stare Miasto (18.1%)., Gaj (15.2%).
+- Osiedle Żerniki posiada najbardziej wyrównane strefy zabudowy mieszkaniowej, infrastruktury i komunikacji oraz strefy otwartej, zieleni i rekreacji na osiedlu Żerniki - wsyzstkie te strefy mają udział około 30%.
+- Największy udział stref otwartych, zieleni i rekreacji znajduje się na osiedlach: Świniary, Osobowice-Rędzin, Księże oraz Strachocin-Swojczyce-Wojnów.
+- Najwięcej terenu zostało wyznaczone pod cele mieszkaniowe na osiedlach: Ołtaszyn (70.3%), Jagodno (69.6%), Gajowice (68.2%), Powstańców Śląskich (66.1%) oraz Przedmieście Świdnickie (62.1%).
+- Z kolei najmniejszy udział stref mieszkaniowych można zaobserwować na osiedlach: Osobowice-Rędzin (4.7%), Świniary (9.2%), Jerzmanowo-Jarnołtów-Strachowice-Osiniec (11.5%) oraz Księże (12.1%).
 
 
 ## Pytania i odpowiedzi
@@ -195,4 +220,5 @@ Opisy poszczególnych strefy znajdziesz na podstronie [Strefy Planu ogólnego](s
 !!! question "Co oznacza wskaźnik powierzchni biologicznie czynnej (PBC)?"
 
     Wskaźnik PBC określa minimalny procent powierzchni działki, który musi pozostać niezabudowany i nieutwardzony (np. trawniki, ogrody, stawy). Celem jest zachowanie retencji wody i bioróżnorodności w mieście. Na przykład, jeśli wskaźnik PBC wynosi 40%, to na działce o powierzchni 1000 m² co najmniej 400 m² musi być przeznaczone na zieleń lub inne formy biologicznie czynnej powierzchni.
+
 

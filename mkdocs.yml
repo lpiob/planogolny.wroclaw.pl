@@ -35,6 +35,7 @@ hooks:
 extra_css:
   - stylesheets/extra.css
   - stylesheets/strefy.css
+  - stylesheets/tables.css
 
 plugins:
   - search
@@ -43,6 +44,7 @@ plugins:
   - privacy:
       enabled: true
       assets: true
+  - social
 
 markdown_extensions:
   - admonition
@@ -53,6 +55,7 @@ markdown_extensions:
   - attr_list
   - md_in_html
   - attr_list
+  - tables
 
 extra:
   social:
