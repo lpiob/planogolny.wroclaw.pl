@@ -14,8 +14,16 @@ def on_page_markdown(markdown, page, config, files):
     questions = []
     for q, a in matches:
         raw_text = " ".join([line.strip() for line in a.splitlines()])
-        text_no_images = re.sub(r'!\[.*?\]\(.*?\)', '', raw_text)
-        clean_answer = re.sub(r'\s+', ' ', text_no_images).strip()
+
+        # 1. Remove images
+        text = re.sub(r'!\[.*?\]\(.*?\)', '', raw_text)
+        # 2. Remove bold and italic (***, **, *)
+        text = re.sub(r'(\*{1,3}|_{1,3})(.*?)\1', r'\2', text)
+        # 3. Remove links but keep the label [label](url) -> label
+        text = re.sub(r'\[(.*?)\]\(.*?\)', r'\1', text)
+        # 4. Collapse whitespace
+        clean_answer = re.sub(r'\s+', ' ', text).strip()
+
         questions.append({
             "@type": "Question",
             "name": q,
@@ -31,7 +39,7 @@ def on_page_markdown(markdown, page, config, files):
             "@type": "FAQPage",
             "mainEntity": questions
         }
-        page.meta['faq_json_ld'] = json.dumps(structured_data)
+        page.meta['faq_json_ld'] = json.dumps(structured_data, ensure_ascii=False)
 
     return markdown
 
