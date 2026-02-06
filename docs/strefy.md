@@ -35,22 +35,20 @@ Strefy które nie są obecnie wyznaczane we Wrocławiu:
 
 ### Strefy mieszkaniowe
 
-Strefy umożliwiające budowę mieszkań (SW, SJ, SZ) mogą być wyznaczane na danym terenie tylko wtedy, gdy zapewniony jest dostęp do infrastruktury społecznej.
-
-Strefy umożliwiające budowę mieszkań (SW, SJ, SZ) mogą być wyznaczane **wyłącznie** na obszarach, które spełniają wymogów dostępności infrastruktury społecznej. Dla Wrocławia, te standardy to:
+Strefy umożliwiające budowę mieszkań (SW, SJ, SZ) mogą być wyznaczane **wyłącznie** na obszarach, które spełniają wymogi dostępności infrastruktury społecznej. Dla Wrocławia, te standardy to:
 
 - **Dostęp do szkoły podstawowej:**
-    - nie dalej niż **1500 m** (droga dojścia pieszo).
+    - od **1500 m** w centrum do **5000 m** na obrzeżach (droga dojścia pieszo), w zależności od strefy.
 - **Dostęp do zieleni publicznej:**
-    - Obszary o pow. min. 3,0 ha: nie dalej niż **1500 m** od granicy działki.
-    - Obszary o pow. min. 20 ha: nie dalej niż **3000 m** od granicy działki.
+    - Teren zielony o rozmiarze min. 2 ha: nie dalej niż **1250 m** od granicy działki.
+    - Teren zielony o rozmiarze min. 10 ha: nie dalej niż **2500 m** od granicy działki.
 
 ## Pytania i odpowiedzi
 
-!!! question "W jaki strefach mogą znaleźć się ogródki działkowe?"
+!!! question "W jakich strefach mogą znaleźć się ogródki działkowe?"
     Ogródki działkowe mogą być zlokalizowane w strefach: SW i SJ (strefy wielofunkcyjne z zabudową mieszkaniową) oraz w strefie SN (zieleń i rekreacja).
 
-!!! question "Dlaczego w Planie Ogólnym w znajdują się 'białe plamy' bez przypisanej strefy?"
+!!! question "Dlaczego w Planie Ogólnym znajdują się 'białe plamy' bez przypisanej strefy?"
     Zazwyczaj są to tereny wojskowe, nie podlegające planowaniu przestrzennemu.
     Ciekawym przykładem jest luka na wrocławskim rynku.
 

@@ -24,5 +24,5 @@ Jeżeli przegapisz ten moment, w przyszłości możesz nie otrzymać pozwolenia 
 
 - Informacje [jak wygląda aktualny Plan Ogólny Wrocławia](aktualny-plan.md)
 - [Harmonogram wdrażania Planu Ogólnego](harmonogram.md)
-- Liste i opis [stref przeznaczenia terenu](strefy.md)
+- Listę i opis [stref przeznaczenia terenu](strefy.md)
 - Linki do [zasobów zewnętrznych](zasoby.md) dotyczących Planu Ogólnego

@@ -39,7 +39,7 @@ Punkty do wypełnienia:
 
 ![Wzór wypełnionego wniosku, punkt 4](assets/wniosek-wzor-4.png){ .border1 }
 
-W punktach 4, 5, 6 podajemy dane adresowe, dane koresponendcyjne oraz dane pełnomocnika (jeśli korzystamy z pełnomocnika).
+W punktach 4, 5, 6 podajemy dane adresowe, dane korespondencyjne oraz dane pełnomocnika (jeśli korzystamy z pełnomocnika).
 
 __Uwaga__: w punkcie 4.1. konieczne jest zaznaczenie czy we wniosku konsultujemy obszar, którego jest się właścicielem lub użytkownikiem wieczystym. Jeśli masz wątpliwości, sprawdź w [Systemie Informacji Przestrzennej Wrocławia](https://geoportal.wroclaw.pl/mapy/wlasnosci/). 
 
@@ -47,7 +47,7 @@ __Uwaga__: w punkcie 4.1. konieczne jest zaznaczenie czy we wniosku konsultujemy
 
 W punkcie 7.1.:
 
-- Przesyłamy treśc wniosku/swoje uwagi, zapisane jako sugestia ogólna.
+- Przesyłamy treść wniosku/swoje uwagi, zapisane jako sugestia ogólna.
 - Prosimy o uwzględnienie szczegółowego wniosku w punkcie 7.2. i/lub 7.3 i/lub w załączniku.
 
 !!! info "Sugestia"
@@ -67,7 +67,7 @@ Jeżeli do wniosku dołączasz załącznik, koniecznie zaznacz to w punkcie 9.
 
 ![Wzór wypełnionego wniosku, zal 1](assets/wniosek-wzor-zal-1.png){ .border1 }
 
-Załącznikiem może być kopia punktów 7.2 albo 7.3. Jeśli korzystasz z tej scieżki, zaznacza to w punkcie 7.1 (*"Proszę o uwzględnienie szczegółowego wniosku zawartego w załączniku"*).
+Załącznikiem może być kopia punktów 7.2 albo 7.3. Jeśli korzystasz z tej ścieżki, zaznacz to w punkcie 7.1 (*"Proszę o uwzględnienie szczegółowego wniosku zawartego w załączniku"*).
 
 
 
