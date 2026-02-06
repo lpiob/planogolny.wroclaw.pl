@@ -26,3 +26,9 @@ Jeżeli przegapisz ten moment, w przyszłości możesz nie otrzymać pozwolenia 
 - [Harmonogram wdrażania Planu Ogólnego](harmonogram.md)
 - Listę i opis [stref przeznaczenia terenu](strefy.md)
 - Linki do [zasobów zewnętrznych](zasoby.md) dotyczących Planu Ogólnego
+
+## Pytania i odpowiedzi
+
+!!! question "Czy Wrocław ma plan ogólny?"
+
+    Obecnie trwają prace nad nowym Planem Ogólnym. Ostatecznym terminem jego wdrożenia jest 30 czerwca 2026 roku.
