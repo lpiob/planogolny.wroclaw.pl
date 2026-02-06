@@ -1,0 +1,17 @@
+tasks:
+  install-deps:
+    name: Install dependencies
+    description: Install system packages and Python dependencies for MkDocs Material.
+    command: |
+      sudo apt-get update && sudo apt-get install -y libcairo2-dev libffi-dev
+      pip install mkdocs-material mkdocs-macros-plugin mkdocs-section-index
+    triggeredBy:
+      - postDevcontainerStart
+
+services:
+  mkdocs-dev-server:
+    name: MkDocs Dev Server
+    description: Runs mkdocs serve for local development.
+    commands:
+      start: mkdocs serve -a 0.0.0.0:8000
+      ready: curl -f http://localhost:8000
