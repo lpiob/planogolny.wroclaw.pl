@@ -5,7 +5,7 @@ description: >-
 
 # Aktualny Plan
 
-!!! notice "Aktualność danych"
+!!! info "Aktualność danych"
     Dane przedstawione na tej stronie pochodzą z oficjalnych źródeł miejskich na dzień **30 stycznia 2026 roku**.
 
     Plan jest jeszcze w trakcie opracowywania i może ulec zmianom.
@@ -22,7 +22,7 @@ Jeśli plan się utrzyma, a ograniczenia zostaną wykorzystane w pełni, to pano
 
 
 
-## Odległość do zielenii
+## Odległość do zieleni
 
 Plan Ogólny ustala maksymalne odległości do terenów zielonych:
 - teren zielony o rozmiarze do 2ha w odległości do 1250m,
@@ -35,7 +35,7 @@ Ustalenia odnośnie zieleni są jednolite dla całego miasta.
 
 ## Odległość do szkoły
 
-Plan Ogólny precyzuje planowaną odległość do najbliższej szkoły podstawowej dla nowych osiedli mieszkaniowych. Odległośc liczona jest jako droga piesza, nie w linii prostej.
+Plan Ogólny precyzuje planowaną odległość do najbliższej szkoły podstawowej dla nowych osiedli mieszkaniowych. Odległość liczona jest jako droga piesza, nie w linii prostej.
 
 Obecnie zakłada się, że odległość do szkoły będzie wynosiła od 1500m w centrum do 5000m na obrzeżach, w oparciu o 3 strefy:
 
@@ -59,7 +59,7 @@ Widawa, Wojszyce, Żerniki.
 
 **Osiedla z odległością do szkoły między 3000m a 5000m**:
 Jerzmanowo-Jarnołtów-Strachowice-Osiniec. Księże, 
-Leśnica (częśc północno-zachodnia), Osobowice-Rędzin (część północna), 
+Leśnica (część północno-zachodnia), Osobowice-Rędzin (część północna), 
 Świniary. 
 
 ![Wizualizacja planowanej odległości do szkoły z nałożonymi osiedlami](assets/planogolny-odleglosc-do-szkoly-osiedla.png)
@@ -132,7 +132,7 @@ Poniższa tabela przedstawia średni ważony wymóg PBC lub inaczej procentowy u
     * **Wysokie wyniki** (np. Świniary, Osobowice) wynikają często z dużej ilości terenów chronionych, lasów, pól irygacyjnych, które w Planie Ogólnym mają bardzo wysokie wymogi ochrony.
     * **Niskie wyniki** (np. Bieńkowice, Jerzmanowo) mogą wynikać z obecności dużej infrastruktury komunikacyjnej (węzły kolejowe, lotnisko), dla której Plan zakłada 0% powierzchni biologicznie czynnej, co zaniża średnią dla całego osiedla, mimo że jego część mieszkalna może być bardzo zielona.
 
-    Plan Ogólny zakłada, że rozwój miasta będzie toczył sie z uwzględnieniem tych wskaźników.
+    Plan Ogólny zakłada, że rozwój miasta będzie toczył się z uwzględnieniem tych wskaźników.
 
 
 ## Pokrycie osiedli strefami
@@ -195,8 +195,8 @@ Opisy poszczególnych strefy znajdziesz na podstronie [Strefy Planu ogólnego](s
 
 Obserwacje:
 
-- Największy obszar stref związanych z handlem i usługami został wyznaczony na osiedlach: Plac Grunwaldzki (30.7%), Gądów-Popowice Płd. (21.1%) oraz Gądów-Popowice Płd. (21.1%)., Huby (20.1%)., Stare Miasto (18.1%)., Gaj (15.2%).
-- Osiedle Żerniki posiada najbardziej wyrównane strefy zabudowy mieszkaniowej, infrastruktury i komunikacji oraz strefy otwartej, zieleni i rekreacji na osiedlu Żerniki - wsyzstkie te strefy mają udział około 30%.
+- Największy obszar stref związanych z handlem i usługami został wyznaczony na osiedlach: Plac Grunwaldzki (30.7%), Gądów-Popowice Płd. (21.1%), Huby (20.1%), Stare Miasto (18.1%), Gaj (15.2%).
+- Osiedle Żerniki posiada najbardziej wyrównane strefy zabudowy mieszkaniowej, infrastruktury i komunikacji oraz strefy otwartej, zieleni i rekreacji na osiedlu Żerniki - wszystkie te strefy mają udział około 30%.
 - Największy udział stref otwartych, zieleni i rekreacji znajduje się na osiedlach: Świniary, Osobowice-Rędzin, Księże oraz Strachocin-Swojczyce-Wojnów.
 - Najwięcej terenu zostało wyznaczone pod cele mieszkaniowe na osiedlach: Ołtaszyn (70.3%), Jagodno (69.6%), Gajowice (68.2%), Powstańców Śląskich (66.1%) oraz Przedmieście Świdnickie (62.1%).
 - Z kolei najmniejszy udział stref mieszkaniowych można zaobserwować na osiedlach: Osobowice-Rędzin (4.7%), Świniary (9.2%), Jerzmanowo-Jarnołtów-Strachowice-Osiniec (11.5%) oraz Księże (12.1%).
@@ -204,7 +204,7 @@ Obserwacje:
 
 ## Pytania i odpowiedzi
 
-!!! question "Jakie bedą najbardziej zielone osiedla we Wrocławiu według tworzonego Planu Ogólnego?"
+!!! question "Jakie będą najbardziej zielone osiedla we Wrocławiu według tworzonego Planu Ogólnego?"
 
     Zgodnie z projektem Planu Ogólnego (styczeń 2026), osiedlami o najwyższym wymaganym udziale powierzchni biologicznie czynnej (PBC) będą: 
     **Świniary** (70,5%), **Osobowice-Rędzin** (66,3%) oraz **Księże** (63,6%). Wysokie wskaźniki wynikają tam z obecności terenów chronionych, lasów i pól irygacyjnych.

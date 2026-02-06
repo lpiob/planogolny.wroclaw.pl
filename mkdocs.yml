@@ -54,7 +54,6 @@ markdown_extensions:
       alternate_style: true
   - attr_list
   - md_in_html
-  - attr_list
   - tables
 
 extra:

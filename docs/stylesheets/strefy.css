@@ -54,6 +54,6 @@
 .strefy-grid > li > span {
   font-size: 0.85rem;
   line-height: 1.2;
-  color: var(--md-default-fg-color--light
+  color: var(--md-default-fg-color--light);
 }
 

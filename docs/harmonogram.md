@@ -22,7 +22,7 @@ Rada miejska podejmuje uchwałę o przystąpieniu do sporządzania planu ogólne
 Prezydent Wrocławia ogłasza zbieranie wniosków do planu ogólnego. Informacja o tym jest
 publikowana w BIP: [ogłoszenie o przystąpieniu do zbierania wniosków](https://bip.um.wroc.pl/artykul/1174/73419/zbieranie-wnioskow).
 
-Termin końcowy został wyznaczony do 1 lipca 2024, a nastepnie wydłużony do 2 sierpnia
+Termin końcowy został wyznaczony do 1 lipca 2024, a następnie wydłużony do 2 sierpnia
 2024.
 
 ### 3. **Sporządzenie projektu i konsultacje z organami**
