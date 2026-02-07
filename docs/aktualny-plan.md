@@ -26,7 +26,7 @@ Jeśli plan się utrzyma, a ograniczenia zostaną wykorzystane w pełni, to pano
 
 Plan Ogólny ustala maksymalne odległości do terenów zielonych:
 - teren zielony o rozmiarze do 2ha w odległości do 1250m,
-- teren zielony o rozmiarze do 10ha a w odległości 2500m.
+- teren zielony o rozmiarze do 10ha w odległości 2500m.
 
 ![Infografika pokazująca odległości do małej i dużej zieleni](assets/planogolny-odleglosc-do-zieleni.jpg)
 
@@ -196,7 +196,7 @@ Opisy poszczególnych strefy znajdziesz na podstronie [Strefy Planu ogólnego](s
 Obserwacje:
 
 - Największy obszar stref związanych z handlem i usługami został wyznaczony na osiedlach: Plac Grunwaldzki (30.7%), Gądów-Popowice Płd. (21.1%), Huby (20.1%), Stare Miasto (18.1%), Gaj (15.2%).
-- Osiedle Żerniki posiada najbardziej wyrównane strefy zabudowy mieszkaniowej, infrastruktury i komunikacji oraz strefy otwartej, zieleni i rekreacji na osiedlu Żerniki - wszystkie te strefy mają udział około 30%.
+- Osiedle Żerniki posiada najbardziej wyrównane strefy zabudowy mieszkaniowej, infrastruktury i komunikacji oraz strefy otwartej, zieleni i rekreacji - wszystkie te strefy mają udział około 30%.
 - Największy udział stref otwartych, zieleni i rekreacji znajduje się na osiedlach: Świniary, Osobowice-Rędzin, Księże oraz Strachocin-Swojczyce-Wojnów.
 - Najwięcej terenu zostało wyznaczone pod cele mieszkaniowe na osiedlach: Ołtaszyn (70.3%), Jagodno (69.6%), Gajowice (68.2%), Powstańców Śląskich (66.1%) oraz Przedmieście Świdnickie (62.1%).
 - Z kolei najmniejszy udział stref mieszkaniowych można zaobserwować na osiedlach: Osobowice-Rędzin (4.7%), Świniary (9.2%), Jerzmanowo-Jarnołtów-Strachowice-Osiniec (11.5%) oraz Księże (12.1%).
