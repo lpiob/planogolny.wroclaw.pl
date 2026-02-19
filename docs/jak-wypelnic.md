@@ -69,7 +69,18 @@ Jeżeli do wniosku dołączasz załącznik, koniecznie zaznacz to w punkcie 9.
 
 Załącznikiem może być kopia punktów 7.2 albo 7.3. Jeśli korzystasz z tej ścieżki, zaznacz to w punkcie 7.1 (*"Proszę o uwzględnienie szczegółowego wniosku zawartego w załączniku"*).
 
+## Krok 3: Wyślij wniosek
 
+Gdy ruszy etap konsultacji społecznych, wypełniony wniosek będzie można:
+
+- wysłać e-mailem na adres [wpl@um.wroc.pl](mailto:wpl@um.wroc.pl)
+- wysłać za pomocą e-puap na adres `/umwroclaw/SkrytkaESP`
+- wysłać za pomocą [e-doręczenia](https://edoreczenia.gov.pl/) na adres Urzędu Miejskiego Wrocławia, `AE:PL-95179-82549-VVTFT-27`
+- nadać na poczcie lub złożyć w sekretariacie Wydziału Planowania Przestrzennego we Wrocławiu, ul. Świdnicka 53, 50-030 Wrocław
+
+Polecamy skorzystanie z [e-doręczenia](https://edoreczenia.gov.pl/), ponieważ jest darmowe, szybkie i wygodne w użyciu oraz generuje potwierdzenie nadania.
+
+Wysłanie wniosku nie wymaga żadnej opłaty, chyba że chcesz skorzystać z pomocy pełnomocnika.
 
 
 
