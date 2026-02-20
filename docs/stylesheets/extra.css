@@ -2,3 +2,11 @@
   border: 1px solid #999;
   border-radius: 4px;
 }
+
+.md-nav__link[href$="polecane-projekty/"],
+.md-nav__link[href$="polecane-projekty/index/"],
+.md-nav__link[href$="polecane-projekty/index.html"] {
+  margin-top: 1rem;
+  padding-top: 0.75rem;
+  border-top: 1px solid var(--md-default-fg-color--lightest);
+}

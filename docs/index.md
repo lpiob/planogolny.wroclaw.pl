@@ -26,6 +26,7 @@ Jeżeli przegapisz ten moment, w przyszłości możesz nie otrzymać pozwolenia 
 - [Harmonogram wdrażania Planu Ogólnego](harmonogram.md)
 - Listę i opis [stref przeznaczenia terenu](strefy.md)
 - Linki do [zasobów zewnętrznych](zasoby.md) dotyczących Planu Ogólnego
+- Zestawienie [polecanych projektów](polecane-projekty/index.md) opartych o inicjatywy mieszkańców
 
 ## Pytania i odpowiedzi
 
