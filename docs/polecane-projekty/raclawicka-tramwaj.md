@@ -18,7 +18,14 @@ Poniższa wizualizacja przedstawia przykładowy dojazd do ul. Legnickiej z ul. R
 
 ![Wizualizacja dojazdu do ul. Legnickiej z ul. Racławickiej](../assets/dojazd-do-magnolii.png){ .border1 }
 
-## Działki
+
+## Jak wnioskować o zachowanie parku?
+
+Złóż w czesci [7.2. uwagi](../jak-wypelnic.md#krok-2-wypenij-formularz) do niżej wymienionych działek i wnioskuj o objęcie działek Strefą Komunikacyjną (SK) z przeznaczeniem pod linię tramwajową. 
+
+Możesz też skorzystać z generatora wniosków dostępnego pod adresem [teraz.wroclaw.pl](https://teraz.wroclaw.pl/), który automatycznie wygeneruje wniosek o zachowanie korytarza transportowego na podstawie wybranych działek.
+
+### Działki
 
 ```
 026401_1.0028.AR_40.17/2

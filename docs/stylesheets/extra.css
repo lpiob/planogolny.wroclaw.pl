@@ -3,6 +3,13 @@
   border-radius: 4px;
 }
 
+.image-caption {
+  font-size: 0.65rem;
+  line-height: 1.2;
+  white-space: nowrap;
+  margin-top: -1rem;
+}
+
 .md-nav__link[href$="polecane-projekty/"],
 .md-nav__link[href$="polecane-projekty/index/"],
 .md-nav__link[href$="polecane-projekty/index.html"] {
@@ -10,3 +17,4 @@
   padding-top: 0.75rem;
   border-top: 1px solid var(--md-default-fg-color--lightest);
 }
+
