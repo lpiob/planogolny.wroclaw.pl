@@ -8,8 +8,10 @@ description: >-
 
 - Uchwała o przystąpieniu do sporządzania planu ogólnego: [uchwała nr LXXX/2105/24](https://bip.um.wroc.pl/artykul/1174/72670/uchwala-o-przystapieniu) z 18 kwietnia 2024
 - [Ogłoszenie o przystąpieniu do zbierania wniosków](https://bip.um.wroc.pl/artykul/1174/73419/zbieranie-wnioskow) do planu ogólnego.
-- Wizualizacja Planu Ogólnego w Geoportalu: [https://geoportal.wroclaw.pl/www/pog_op_app/](https://geoportal.wroclaw.pl/www/pog_op_app/).
-- Informacja o Planie Ogólnym na stronach Biuletynu Informacji Publicznej: [BIP](https://bip.um.wroc.pl/artykul/1174/84877/uzgadnianie-projektu).
+- Aktualny etap konsultacji społecznych: [BIP - konsultacje społeczne](https://bip.um.wroc.pl/artykul/1174/88854/konsultacje-spoleczne)
+- Aktualna wizualizacja projektu w Geoportalu: [pog_ks_app](https://geoportal.wroclaw.pl/www/pog_ks_app/?page=Strona-g%C5%82%C3%B3wna)
+- Wersja archiwalna z etapu opiniowania: [pog_op_app](https://geoportal.wroclaw.pl/www/pog_op_app/?page=Strona-g%C5%82%C3%B3wna)
+- Archiwalna strona BIP z etapu uzgadniania: [BIP - uzgadnianie projektu](https://bip.um.wroc.pl/artykul/1174/84877/uzgadnianie-projektu)
 
 ## Akty prawne
 

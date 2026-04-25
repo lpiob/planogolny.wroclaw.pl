@@ -1,37 +1,41 @@
 ---
 description: >-
-  Instrukcja krok po kroku: jak poprawnie wypełnić i złożyć wniosek do Planu Ogólnego Wrocławia. 
-  Pobierz wzory formularzy i skorzystaj z generatora wniosków.
+  Instrukcja krok po kroku: jak poprawnie wypełnić i złożyć uwagę do projektu Planu Ogólnego Wrocławia.
+  Korzystaj z oficjalnych formularzy i aktualnych materiałów z BIP.
 ---
-# Jak wypełnić wniosek do Planu Ogólnego?
+# Jak wypełnić uwagę do Planu Ogólnego?
 
-## Krok 1: Pobierz lub uzyskaj formularz wniosku
+## Krok 1: Pobierz oficjalny formularz
 
-Dokument który należy wypełnić to *pismo dotyczące aktu planowania ogólnego*.
+Dokument, który należy wypełnić, to *pismo dotyczące aktu planowania przestrzennego*.
 
-Dokument możesz pobrać w wersji elektronicznej:
+Aktualna, oficjalna wersja formularza i materiałów pomocniczych znajduje się w BIP:
 
-- Z naszej strony:
-    -  w [edytowalnym formacie PDF](assets/wzory/wpl_edytowalny_formularz_wniosku_do_aktu_plan_przestrzennego_07_2025.pdf){: target="_blank" }
-    -  w [formacie DOCX](assets/wzory/wpl_pismo_dot_aktu_planowania_przestrzennego_07_2025.doc){: download }
-- Z [Systemu Informacji Przestrzennej Wrocławia](https://geoportal.wroclaw.pl/planowanie_przestrzenne/dokumenty):
+- [BIP - konsultacje społeczne planu ogólnego](https://bip.um.wroc.pl/artykul/1174/88854/konsultacje-spoleczne)
+- [Formularz DOC](https://bip.um.wroc.pl/attachments/download/143860)
+- [Formularz PDF](https://bip.um.wroc.pl/attachments/download/143861)
+- [Przykład wypełnionego pisma](https://bip.um.wroc.pl/attachments/download/173111)
+- [Instrukcja wypełnienia uwagi](https://bip.um.wroc.pl/attachments/download/173190)
+- [Instrukcja - identyfikator działki](https://bip.um.wroc.pl/attachments/download/143863)
 
-!!! info "Wnioski papierowe"
+!!! info "Formularz papierowy"
 
-    Po rozpoczęciu konsultacji społecznych, wniosek papierowy będzie można uzyskać w punktach konsultacyjnych.
+    W trakcie konsultacji społecznych (14.04.2026-25.05.2026)
+    formularz papierowy jest dostępny w Wydziale Planowania Przestrzennego,
+    ul. Świdnicka 53, od poniedziałku do piątku w godz. 9:00-15:30.
 
 !!! success "Generator wniosków"
 
-    Możesz także skorzystać z [generatora wniosków do Planu Ogólnego](https://teraz.wroclaw.pl/){: target="_blank"}, który poprowadzi Cię krok po kroku przez proces składania uwag.
+    Dodatkowo możesz skorzystać z [generatora wniosków do Planu Ogólnego](https://teraz.wroclaw.pl/){: target="_blank"}, który pomaga przygotować treść uwagi według predefiniowanych szablonów.
 
 ## Krok 2: Wypełnij formularz
 
-Wzór wypełnionego wniosku z uwagami:
+Wzór wypełnionego formularza z uwagami:
 ![Wzór wypełnionego wniosku, punkty 1-3](assets/wniosek-wzor-1-3.png){ .border1 }
 
 Punkty do wypełnienia:
 
-1. Organ do którego kierujesz wniosek: *Prezydent Wrocławia - Wydział Planowania Przestrzennego Urzędu Miejskiego Wrocławia, ul. Świdnicka 53,50-030 Wrocław*
+1. Organ, do którego kierujesz pismo: *Prezydent Wrocławia - Wydział Planowania Przestrzennego Urzędu Miejskiego Wrocławia, ul. Świdnicka 53, 50-030 Wrocław*
 
 2. Rodzaj pisma: *2.2. uwaga do konsultowanego projektu aktu*
 
@@ -41,14 +45,14 @@ Punkty do wypełnienia:
 
 W punktach 4, 5, 6 podajemy dane adresowe, dane korespondencyjne oraz dane pełnomocnika (jeśli korzystamy z pełnomocnika).
 
-__Uwaga__: w punkcie 4.1. konieczne jest zaznaczenie czy we wniosku konsultujemy obszar, którego jest się właścicielem lub użytkownikiem wieczystym. Jeśli masz wątpliwości, sprawdź w [Systemie Informacji Przestrzennej Wrocławia](https://geoportal.wroclaw.pl/mapy/wlasnosci/). 
+__Uwaga__: w punkcie 4.1. konieczne jest zaznaczenie, czy uwaga dotyczy obszaru, którego jesteś właścicielem lub użytkownikiem wieczystym. Jeśli masz wątpliwości, sprawdź w [Systemie Informacji Przestrzennej Wrocławia](https://geoportal.wroclaw.pl/mapy/wlasnosci/).
 
 ![Wzór wypełnionego wniosku, punkt 7](assets/wniosek-wzor-7.png){ .border1 }
 
 W punkcie 7.1.:
 
-- Przesyłamy treść wniosku/swoje uwagi, zapisane jako sugestia ogólna.
-- Prosimy o uwzględnienie szczegółowego wniosku w punkcie 7.2. i/lub 7.3 i/lub w załączniku.
+- Przesyłamy treść uwagi, zapisaną jako sugestia ogólna.
+- Prosimy o uwzględnienie szczegółowej uwagi w punkcie 7.2 i/lub 7.3 i/lub w załączniku.
 
 !!! info "Sugestia"
 
@@ -59,29 +63,28 @@ W punkcie 7.1.:
 
 W punkcie 7.2.1. jako nazwę aktu planowania przestrzennego wpisujemy: *Plan ogólny gminy Wrocław*.
 
-W punkcie 7.2.2. wpisujemy numery działek, których dotyczy wniosek. Numery działek odnajdziesz w [Systemie Informacji Przestrzennej Wrocławia](https://geoportal.wroclaw.pl/mapy/wlasnosci/). 
+W punkcie 7.2.2. wpisujemy numery działek, których dotyczy uwaga. Numery działek odnajdziesz w [Systemie Informacji Przestrzennej Wrocławia](https://geoportal.wroclaw.pl/mapy/wlasnosci/).
 
 ![Wzór wypełnionego wniosku, punkt 9](assets/wniosek-wzor-9.png){ .border1 }
 
-Jeżeli do wniosku dołączasz załącznik, koniecznie zaznacz to w punkcie 9.
+Jeżeli do formularza dołączasz załącznik, koniecznie zaznacz to w punkcie 9.
 
 ![Wzór wypełnionego wniosku, zal 1](assets/wniosek-wzor-zal-1.png){ .border1 }
 
-Załącznikiem może być kopia punktów 7.2 albo 7.3. Jeśli korzystasz z tej ścieżki, zaznacz to w punkcie 7.1 (*"Proszę o uwzględnienie szczegółowego wniosku zawartego w załączniku"*).
+Załącznikiem może być kopia punktów 7.2 albo 7.3. Jeśli korzystasz z tej ścieżki, zaznacz to w punkcie 7.1 (*"Proszę o uwzględnienie szczegółowej uwagi zawartej w załączniku"*).
 
-## Krok 3: Wyślij wniosek
+## Krok 3: Złóż uwagę
 
-Gdy ruszy etap konsultacji społecznych, wypełniony wniosek będzie można:
+W trakcie konsultacji społecznych (14.04.2026-25.05.2026) wypełniony formularz możesz:
 
 - wysłać e-mailem na adres [wpl@um.wroc.pl](mailto:wpl@um.wroc.pl)
-- wysłać za pomocą e-puap na adres `/umwroclaw/SkrytkaESP`
+- wysłać przez ePUAP na adres `/umwroclaw/SkrytkaESP`
 - wysłać za pomocą [e-doręczenia](https://edoreczenia.gov.pl/) na adres Urzędu Miejskiego Wrocławia, `AE:PL-95179-82549-VVTFT-27`
 - nadać na poczcie lub złożyć w sekretariacie Wydziału Planowania Przestrzennego we Wrocławiu, ul. Świdnicka 53, 50-030 Wrocław
 
 Polecamy skorzystanie z [e-doręczenia](https://edoreczenia.gov.pl/), ponieważ jest darmowe, szybkie i wygodne w użyciu oraz generuje potwierdzenie nadania.
 
-Wysłanie wniosku nie wymaga żadnej opłaty, chyba że chcesz skorzystać z pomocy pełnomocnika.
-
+Złożenie uwagi nie wymaga żadnej opłaty, chyba że chcesz skorzystać z pomocy pełnomocnika.
 
 
 

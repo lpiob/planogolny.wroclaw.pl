@@ -10,9 +10,13 @@ Dokument ten jest **wiążący** przy uchwalaniu Miejscowych Planów Zagospodaro
 
 !!! info "Aktualny etap projektu"
     
-    Obecnie trwa etap uzgadniania kształtu Planu Ogólnego.
-    Dopiero po przejściu do etapu **konsultacji społecznych** będzie możliwe wysłanie
-    swoich wniosków.
+    Trwają **konsultacje społeczne** projektu Planu Ogólnego Wrocławia
+    (**14.04.2026-25.05.2026**). W tym czasie można składać formalne uwagi.
+
+    Aktualna wersja projektu jest dostępna w
+    [aplikacji mapowej SIP](https://geoportal.wroclaw.pl/www/pog_ks_app/?page=Strona-g%C5%82%C3%B3wna)
+    oraz na stronie
+    [BIP - konsultacje społeczne](https://bip.um.wroc.pl/artykul/1174/88854/konsultacje-spoleczne).
 
     Sprawdź cały [harmonogram](harmonogram.md) wdrażania.
 
@@ -32,4 +36,6 @@ Jeżeli przegapisz ten moment, w przyszłości możesz nie otrzymać pozwolenia 
 
 !!! question "Czy Wrocław ma plan ogólny?"
 
-    Obecnie trwają prace nad nowym Planem Ogólnym. Ostatecznym terminem jego wdrożenia jest 30 czerwca 2026 roku.
+    Obecnie trwa etap konsultacji społecznych projektu Planu Ogólnego
+    (14.04.2026-25.05.2026). Ostatecznym terminem wdrożenia planu jest
+    30 czerwca 2026 roku.

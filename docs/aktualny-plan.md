@@ -8,7 +8,11 @@ description: >-
 !!! info "Aktualność danych"
     Dane przedstawione na tej stronie pochodzą z oficjalnych źródeł miejskich na dzień **30 stycznia 2026 roku**.
 
-    Plan jest jeszcze w trakcie opracowywania i może ulec zmianom.
+    Plan jest jeszcze w trakcie opracowywania i będzie ulegał zmianom.
+    Aktualną wersję konsultacyjną sprawdzisz w
+    [aplikacji mapowej SIP](https://geoportal.wroclaw.pl/www/pog_ks_app/?page=Strona-g%C5%82%C3%B3wna)
+    oraz na stronie
+    [BIP - konsultacje społeczne](https://bip.um.wroc.pl/artykul/1174/88854/konsultacje-spoleczne).
 
 ## Profil wysokościowy
 
@@ -220,5 +224,4 @@ Obserwacje:
 !!! question "Co oznacza wskaźnik powierzchni biologicznie czynnej (PBC)?"
 
     Wskaźnik PBC określa minimalny procent powierzchni działki, który musi pozostać niezabudowany i nieutwardzony (np. trawniki, ogrody, stawy). Celem jest zachowanie retencji wody i bioróżnorodności w mieście. Na przykład, jeśli wskaźnik PBC wynosi 40%, to na działce o powierzchni 1000 m² co najmniej 400 m² musi być przeznaczone na zieleń lub inne formy biologicznie czynnej powierzchni.
-
 

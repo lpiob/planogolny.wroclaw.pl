@@ -22,7 +22,7 @@ Utwardzenie i otwarcie tej drogi może wydawać się korzystne dla okolicznych m
 
 
 
-Na stronie [teraz.wroclaw.pl](https://teraz.wroclaw.pl) w fazie konsultacji do Planu Ogólnego możliwe będzie złożenie wniosku który przeciwstawia się utworzeniu drogi tranzytowej, a zamiast tego proponuje zachowanie terenu jako zielonego ciągu pieszego-rowerowego.
+W trakcie konsultacji społecznych do Planu Ogólnego na stronie [teraz.wroclaw.pl](https://teraz.wroclaw.pl) można przygotować treść uwagi, która przeciwstawia się utworzeniu drogi tranzytowej i proponuje zachowanie terenu jako zielonego ciągu pieszego-rowerowego.
 
 ## Założenia projektu
 - brak tranzytu samochodowego przez osiedle
