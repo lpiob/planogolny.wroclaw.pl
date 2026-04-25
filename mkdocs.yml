@@ -2,6 +2,19 @@ site_name: Plan Ogólny Wrocławia
 site_url: https://planogolny.wroclaw.pl/
 #repo_url: https://github.com/lpiob/planogolny.wroclaw.pl
 
+nav:
+  - Strona główna: index.md
+  - Aktualny Plan: aktualny-plan.md
+  - Harmonogram: harmonogram.md
+  - Strefy: strefy.md
+  - Jak wypełnić: jak-wypelnic.md
+  - Zasoby: zasoby.md
+  - Polecane projekty:
+      - Polecane projekty: polecane-projekty/index.md
+      - Zachowanie Parku Krzyckiego i Doliny Olszówki: polecane-projekty/park-krzycki.md
+      - Tramwaj na Racławickiej: polecane-projekty/raclawicka-tramwaj.md
+      - Zachowanie skali zabudowy na Krzykach i Partynicach: polecane-projekty/skala-zabudowy-krzyki-partynice.md
+
 theme:
   name: material
   logo: assets/logo.png

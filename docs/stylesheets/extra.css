@@ -6,8 +6,11 @@
 .image-caption {
   font-size: 0.65rem;
   line-height: 1.2;
-  white-space: nowrap;
   margin-top: -1rem;
+  max-width: 100%;
+  white-space: normal;
+  overflow-wrap: anywhere;
+  word-break: break-word;
 }
 
 .md-nav__link[href$="polecane-projekty/"],
@@ -17,4 +20,3 @@
   padding-top: 0.75rem;
   border-top: 1px solid var(--md-default-fg-color--lightest);
 }
-
