@@ -19,7 +19,7 @@ Poniższa wizualizacja przedstawia przykładowy dojazd do ul. Legnickiej z ul. R
 ![Wizualizacja dojazdu do ul. Legnickiej z ul. Racławickiej](../assets/dojazd-do-magnolii.png){ .border1 }
 
 
-## Jak wnioskować o zachowanie parku?
+## Jak wnioskować o wybudowanie linii?
 
 Złóż w czesci [7.2. uwagi](../jak-wypelnic.md#krok-2-wypenij-formularz) do niżej wymienionych działek i wnioskuj o objęcie działek Strefą Komunikacyjną (SK) z przeznaczeniem pod linię tramwajową. 
 
