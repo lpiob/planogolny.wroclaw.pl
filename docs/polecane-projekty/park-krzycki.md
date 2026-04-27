@@ -29,6 +29,10 @@ Wskazywany obszar pełni funkcję korytarza ekologicznego oraz naturalnej retenc
 
 Złóż w czesci [7.2. uwagi](../jak-wypelnic.md#krok-2-wypenij-formularz) do niżej wymienionych działek i wnioskuj u zachowanie parku i doliny. Możesz wymienić konkretne [strefy planistyczne](../strefy.md) (np. SO - strefę otwartą, SZ - strefę zieleni i rekreacji), możesz domagać się wskazania wysokiego minimalnego wskaźnika powierzni biologicznie czynnej, lub wskazać ogólnie, że chodzi o ochronę zieleni i funkcji przyrodniczych wzdłuż Ślęży.
 
+!!! info "Szybkie składanie wniosku"
+
+    Gotowy wniosek możesz szybko wygenerować w [generatorze wniosków](https://teraz.wroclaw.pl/). Na liście projektów należy wybrać **Zachowanie Parku Krzyckiego i Doliny Olszówki**.
+
 ![Park Krzycki i Dolina Olszówki, widok na północ](../assets/park-krzycki-hmarek.jpg){ .border1 }
 
 *Park Krzycki i Dolina Olszówki, widok na północ*. Autor: HMarek, [Fotopolska.eu](https://fotopolska.eu/2625192,foto.html), wykorzystane za zgodą autora.
