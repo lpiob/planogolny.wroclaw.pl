@@ -11,3 +11,4 @@ Poniższe projekty pochodzą z nieoficjalnego generatora wniosków tworzonego sp
 - [Zachowanie Parku Krzyckiego i Doliny Olszówki](park-krzycki.md)
 - [Budowa linii tramwajowej na ul. Racławickiej](raclawicka-tramwaj.md)
 - [Zachowanie skali zabudowy na Krzykach i Partynicach](skala-zabudowy-krzyki-partynice.md)
+- [Więcej zielenii przy parku Grabiszyńskim](zielen-park-grabiszynski.md)
