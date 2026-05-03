@@ -11,7 +11,7 @@ Do Planu Ogólnego Miasta Wrocławia zgłoszono szereg uwag mających na celu zm
 *Teren zielony przy pętli Racławicka*. Autor: HMarek, [Fotopolska.eu](https://fotopolska.eu/2342683,foto.html), wykorzystane za zgodą autora.
 {: .image-caption }
 
-Zmiana dotyczyłaby terenów na których w chwili obecnej znajdują się Rodzinne Ogrody Działkowe oraz tereny rekreacyjne nad rzeką Ślężą, przy moście Racławickim.
+Zmiana dotyczyłaby terenów na których w chwili obecnej znajdują się Rodzinne Ogrody Działkowe oraz tereny rekreacyjne nad rzeką Ślęzą, przy moście Racławickim.
 
 Postulujemy o składanie kontrpropozycji w celu zachowania obszaru zielonego w tym miejscu oraz wykorzystania terenów rekreacyjnych do powiększenia parku Grabiszyńskiego.
 
