@@ -62,6 +62,8 @@ Złóż uwagi w czesci [7.2. formularza konsultacji](../jak-wypelnic.md#krok-2-w
 026401_1.0028.AR_40.21/1
 ```
 
+![Ilustracja obszaru wskazanych działek](../assets/obszar-wniosku-zielen-park.png){ .border1 }
+
 ![Końcowy odcinek ulicy Odkrywców](../assets/ul_Odkrywcow_964845_Fotopolska-Eu.jpg){ .border1 }
 
 *Końcowy odcinek ulicy Odkrywców*. Autor: Neo\[EZN\]. [Fotopolska.eu](https://fotopolska.eu/964845,foto.html), CC BY-SA 3.0.

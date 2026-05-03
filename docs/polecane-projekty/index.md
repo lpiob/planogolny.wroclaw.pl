@@ -4,7 +4,7 @@ description: >-
 ---
 # Polecane projekty
 
-Poniższe projekty pochodzą z nieoficjalnego generatora wniosków tworzonego społecznie przez mieszkańców. Ta sekcja ma charakter informacyjny i jest celowo wydzielona, aby zachować neutralny charakter pozostałych treści.
+Zachęcamy do zapoznania się z projektami i inicjatywami mieszkańców, które są związane z Planem Ogólnym Wrocławia.
 
 ## Lista projektów
 
