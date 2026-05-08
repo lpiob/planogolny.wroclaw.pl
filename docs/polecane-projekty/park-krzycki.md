@@ -27,7 +27,7 @@ Wskazywany obszar pełni funkcję korytarza ekologicznego oraz naturalnej retenc
 
 ## Jak wnioskować o zachowanie parku?
 
-Złóż w czesci [7.2. uwagi](../jak-wypelnic.md#krok-2-wypenij-formularz) do niżej wymienionych działek i wnioskuj u zachowanie parku i doliny. Możesz wymienić konkretne [strefy planistyczne](../strefy.md) (np. SO - strefę otwartą, SZ - strefę zieleni i rekreacji), możesz domagać się wskazania wysokiego minimalnego wskaźnika powierzni biologicznie czynnej, lub wskazać ogólnie, że chodzi o ochronę zieleni i funkcji przyrodniczych wzdłuż Ślęży.
+Złóż w czesci [7.2. uwagi](../jak-wypelnic.md#krok-2-wypenij-formularz) do niżej wymienionych działek i wnioskuj u zachowanie parku i doliny. Możesz wymienić konkretne [strefy planistyczne](../strefy.md) (np. SO - strefę otwartą, SN - strefę zieleni i rekreacji), możesz domagać się wskazania wysokiego minimalnego wskaźnika powierzni biologicznie czynnej, lub wskazać ogólnie, że chodzi o ochronę zieleni i funkcji przyrodniczych wzdłuż Ślęży.
 
 !!! info "Szybkie składanie wniosku"
 

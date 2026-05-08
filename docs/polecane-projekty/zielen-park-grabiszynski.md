@@ -20,7 +20,7 @@ Postulujemy o składanie kontrpropozycji w celu zachowania obszaru zielonego w t
 Złóż uwagi w czesci [7.2. formularza konsultacji](../jak-wypelnic.md#krok-2-wypenij-formularz) do niżej wymienionych działek i:
 
 - sprzeciwstaw się przeznaczeniu tych terenów pod zabudowę mieszkaniową,
-- wnioskuj o zachowanie obecnego charakteru terenu jako strefy zieleni (SZ),
+- wnioskuj o zachowanie obecnego charakteru terenu jako strefy zieleni (SN),
 
 !!! info "Szybkie składanie wniosku"
 

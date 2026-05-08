@@ -33,7 +33,7 @@ W trakcie konsultacji społecznych do Planu Ogólnego na stronie [teraz.wroclaw.
 
 Złóż uwagi w czesci [7.2. formularza konsultacji](../jak-wypelnic.md#krok-2-wypenij-formularz) do niżej wymienionych działek i:
 - sprzeciwstaw się wyznaczaniu drogi klasy publicznej dopuszczającej ruch samochodowy,
-- wnioskuj o zachowanie obecnego charakteru terenu jako strefy zieleni (SZ),
+- wnioskuj o zachowanie obecnego charakteru terenu jako strefy zieleni (SN),
 - postuluj przeznaczenie terenu wyłącznie pod infrastrukturę pieszą i rowerową (bez dopuszczenia ruchu samochodowego),
 - wnioskuj o zapisy wykluczające realizację jezdni dla samochodów.
 
